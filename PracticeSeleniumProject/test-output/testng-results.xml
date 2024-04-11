@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[successfully validated homepage]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-07T19:33:33 IST" name="Default suite" finished-at="2024-03-07T19:33:59 IST" duration-ms="26333">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T19:33:33 IST" name="Default test" finished-at="2024-03-07T19:33:59 IST" duration-ms="26333">
+      <class name="test.shaadiregisteraccount">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.shaadiregisteraccount@3646a422]" started-at="2024-03-07T19:33:33 IST" name="beforeTest" finished-at="2024-03-07T19:33:56 IST" duration-ms="22977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="varifyregister()[pri:0, instance:test.shaadiregisteraccount@3646a422]" started-at="2024-03-07T19:33:56 IST" name="varifyregister" finished-at="2024-03-07T19:33:59 IST" duration-ms="3271" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully validated homepage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- varifyregister -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.shaadiregisteraccount@3646a422]" started-at="2024-03-07T19:33:59 IST" name="afterTest" finished-at="2024-03-07T19:33:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.shaadiregisteraccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
